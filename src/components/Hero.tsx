@@ -11,7 +11,7 @@ function Hero() {
             <br />
             My name is Darvin
           </h1>
-          <p className="max-w-2xl mb-6  text-gray-700 font-normal lg:mb-8 md:text-lg lg:text-xl dark:text-gray-400">
+          <p className="max-w-2xl mb-4  text-gray-700 font-normal lg:mb-8 md:text-lg lg:text-xl dark:text-gray-400">
             Welcome to My Software Engineering Journey
           </p>
 
